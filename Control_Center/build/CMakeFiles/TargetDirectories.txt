@@ -1,0 +1,9 @@
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/install/strip.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/install/local.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/install.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/websocket.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/xiaozhi_http.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/websocket_test.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Control_Center/build/CMakeFiles/rebuild_cache.dir

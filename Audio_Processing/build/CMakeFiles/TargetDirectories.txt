@@ -1,0 +1,4 @@
+/home/ubuntu/桌面/cat/ai_xiaozhi/Audio_Processing/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Audio_Processing/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Audio_Processing/build/CMakeFiles/xiaozhi_opus.dir
+/home/ubuntu/桌面/cat/ai_xiaozhi/Audio_Processing/build/CMakeFiles/sound.dir
